@@ -1,3 +1,8 @@
+# Large dataset files (too large for GitHub — see DATASET.md for download)
+*.csv
+*.pcap
+*.pcapng
+
 # Python
 __pycache__/
 *.py[cod]

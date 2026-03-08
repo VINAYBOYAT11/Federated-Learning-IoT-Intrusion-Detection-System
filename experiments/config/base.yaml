@@ -1,0 +1,6 @@
+data:
+  csv_file: "uniflow_mqtt_bruteforce.csv"
+
+training:
+  num_partitions: 5
+  batch_size: 64
